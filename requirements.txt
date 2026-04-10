@@ -2,3 +2,5 @@ ipynb
 pytorch-metric-learning
 pyts
 jupytext
+torchvision
+pillow
